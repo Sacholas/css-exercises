@@ -1,0 +1,20 @@
+/* styles.css */
+
+.pinkHL {
+    background-color: rgb(253, 155, 172);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#number2 {
+    color: rgb(3, 3, 243);
+    font-size: 36px;
+}
+
+.biggerfont {
+    font-size: 24px;
+}
+
+#number4 {
+    background-color: rgb(10, 214, 10);
+    font-weight: bold;
+}
